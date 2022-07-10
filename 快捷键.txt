@@ -1,0 +1,5 @@
+ctrl+win+i:添加头部注释
+ctrl + win + t ：生成函数注释
+shift+alt+f：快速格式化代码
+ctrl+shift+k : 删除一行
+ctrl+click:插入多光标（要在setting.json文件中设置）
