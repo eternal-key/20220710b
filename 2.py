@@ -2,7 +2,7 @@
 Description: 
 Author: luoxu
 Date: 2022-07-08 17:08:37
-LastEditTime: 2022-07-08 22:51:56
+LastEditTime: 2022-07-10 20:28:01
 LastEditors: luoxu
 Reference:                          
 '''
@@ -22,5 +22,7 @@ a=8
 
 def a():
     lit = [1,23,4]
+    d = 3
+    
 
 
