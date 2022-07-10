@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: luoxu
  * @Date: 2022-07-10 21:45:47
- * @LastEditTime: 2022-07-10 22:21:48
+ * @LastEditTime: 2022-07-10 22:29:05
  * @LastEditors: luoxu
  * @Reference: 
 -->
@@ -22,5 +22,8 @@ b站视频对应博客：
 **解决办法**：
 [官方链接](https://github.com/microsoft/vscode/issues/154449)
 应该是vscode版本更新的问题
-**具体操作**
+具体操作
 vscode中设置-将Git:use editor as commit input勾选取消
+
+## 待学习
+gitignore文件的编写
