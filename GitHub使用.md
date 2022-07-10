@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: luoxu
  * @Date: 2022-07-10 21:45:47
- * @LastEditTime: 2022-07-10 22:13:05
+ * @LastEditTime: 2022-07-10 22:21:48
  * @LastEditors: luoxu
  * @Reference: 
 -->
@@ -17,3 +17,10 @@ b站视频对应博客：
 [菜鸟教程链接](https://www.runoob.com/git/git-tutorial.htmlv)
 
 ## 问题记录
+20220710
+**问题1**：使用vscode自带的提交按钮提交时报错：Error: Bad status code: 500，显示Microsoft VS Code\resources\app\extensions\git\dist\git-editor有问题
+**解决办法**：
+[官方链接](https://github.com/microsoft/vscode/issues/154449)
+应该是vscode版本更新的问题
+**具体操作**
+vscode中设置-将Git:use editor as commit input勾选取消
