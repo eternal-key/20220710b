@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: luoxu
  * @Date: 2022-07-10 21:45:47
- * @LastEditTime: 2022-07-10 22:29:05
+ * @LastEditTime: 2022-07-10 22:31:54
  * @LastEditors: luoxu
  * @Reference: 
 -->
@@ -26,4 +26,5 @@ b站视频对应博客：
 vscode中设置-将Git:use editor as commit input勾选取消
 
 ## 待学习
+版本回退
 gitignore文件的编写
